@@ -318,3 +318,5 @@ C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo\obj\Debug\net7.0\
 C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo\obj\Debug\net7.0\TeaTimeDemo.pdb
 C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo\obj\Debug\net7.0\TeaTimeDemo.genruntimeconfig.cache
 C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo\obj\Debug\net7.0\ref\TeaTimeDemo.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo\bin\Debug\net7.0\appsettings.Production.json
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo\obj\Debug\net7.0\TeaTimeDemo.sourcelink.json
